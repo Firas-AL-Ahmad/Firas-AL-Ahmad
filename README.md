@@ -13,6 +13,12 @@
     I am a passionate Full-Stack Developer with a keen interest in software engineering and UI/UX design. I enjoy working on both the front-end and back-end of web applications, and I am constantly looking to improve my skills and learn new technologies. Feel free to connect with me on GitHub or LinkedIn to discuss projects or potential collaborations.
 </p>
 
+## 🔗 Let's chat:
+
+<p>
+    <a href="https://www.linkedin.com/in/your-linkedin-profile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 <br>
 
@@ -27,7 +33,10 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
+<br>
+
 ### 🧰 Libraries & Frameworks
+
 <p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -36,13 +45,19 @@
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 </p>
 
+<br>
+
 ### 🗄️ Databases & Cloud Hosting
+
 <p>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
+<br>
+
 ### 💻 Software & Tools
+
 <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -50,26 +65,7 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-## 📫 Contact
-<p>
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://t.me/your-telegram-username"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-</p>
-
-## 📜 Certifications
-
-<p>
-    <img src="https://img.shields.io/badge/Certification1-0078D6?style=for-the-badge&logo=example&logoColor=white" />
-    <img src="https://img.shields.io/badge/Certification2-0078D6?style=for-the-badge&logo=example&logoColor=white" />
-</p>
-
-
-## 🔗 Connect with Me
-
-<p>
-    <a href="https://www.linkedin.com/in/your-linkedin-profile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<br>
 
 ## 📊 GitHub Stats
 
@@ -78,6 +74,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firas-AL-Ahmad&theme=tokyonight&layout=compact" alt="Top Languages" style="width: 45%; height: 200px;" />
 </div>
 
+<br>
 
 ## 🌟 Featured Projects
 
