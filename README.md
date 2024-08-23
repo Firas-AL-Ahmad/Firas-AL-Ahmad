@@ -3,7 +3,7 @@
 </div>
 
 <div align="center" style="padding-top: 40px; padding-bottom: 40px;">
-    <img src="https://github.com/user-attachments/assets/d80a33c0-755f-493d-ad3b-12945fc0230e" alt="profile image" />
+    <img src="https://github.com/user-attachments/assets/63168c89-8989-4d71-b05c-83ce97f89123" alt="Firas AL Ahmad Profile Image" />
 </div>
 
 
@@ -89,8 +89,8 @@
         <a href="https://github.com/Firas-AL-Ahmad/Training-Company-Website">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Firas-AL-Ahmad&theme=tokyonight&repo=Training-Company-Website" alt="Readme Card" />
         </a>
-        <a href="https://github.com/Firas-AL-Ahmad/Our-Team-Card">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Firas-AL-Ahmad&theme=tokyonight&repo=Our-Team-Card" alt="Readme Card" />
+        <a href="https://github.com/Firas-AL-Ahmad/TouYuby">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Firas-AL-Ahmad&theme=tokyonight&repo=TouYuby" alt="Readme Card" />
         </a>
         <a href="https://github.com/Firas-AL-Ahmad/first-personal-website">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Firas-AL-Ahmad&theme=tokyonight&repo=first-personal-website" alt="Readme Card" />
