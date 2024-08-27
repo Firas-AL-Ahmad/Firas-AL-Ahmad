@@ -11,7 +11,7 @@
 ## 💬 About Me
 
 <p>
-    I am a passionate Full-Stack Developer with a keen interest in software engineering and UI/UX design. I enjoy working on both the front-end and back-end of web applications, and I am constantly looking to improve my skills and learn new technologies. Feel free to connect with me on GitHub or LinkedIn to discuss projects or potential collaborations.
+I am a passionate Full-Stack Developer with a keen interest in software engineering and UI/UX design. I enjoy working on both the front-end and back-end of web applications, and I am constantly looking to improve my skills and learn new technologies. Feel free to connect with me on GitHub or LinkedIn to discuss projects or potential collaborations.
 </p>
 
 ## 🔗 Let's chat:
@@ -80,11 +80,15 @@
 
 ## 📊 GitHub Stats
 
-<div align="center" style="width: 100%; display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Firas-AL-Ahmad&theme=tokyonight&show_icons=true" alt="GitHub Stats" style="margin-right: 10%; width:45%; height: 200px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firas-AL-Ahmad&theme=tokyonight&layout=compact" alt="Top Languages" style="width: 45%; height: 200px;" />
-</div>
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=Firas-AL-Ahmad&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Firas-AL-Ahmad&theme=tokyonight&show_icons=true" alt="GitHub Stats" style="width:45%; height: 200px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firas-AL-Ahmad&theme=tokyonight&layout=compact" alt="Top Languages" style="width: 45%; height: 200px;" />
+</p>
+ 
 <br>
 
 ## 🌟 Featured Projects
