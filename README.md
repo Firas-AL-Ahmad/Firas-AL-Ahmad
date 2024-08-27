@@ -8,7 +8,7 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Firas-AL-Ahmad.visitor-badge&left_color=purple&right_color=green&left_text=Hello%20Visitors"/>
 
- ## 💬 About Me
+## 💬 About Me
 
 <p>
     I am a passionate Full-Stack Developer with a keen interest in software engineering and UI/UX design. I enjoy working on both the front-end and back-end of web applications, and I am constantly looking to improve my skills and learn new technologies. Feel free to connect with me on GitHub or LinkedIn to discuss projects or potential collaborations.
@@ -23,51 +23,59 @@
 
 <br>
 
-## 🛠 Tech Stack
+<h1 align="center" >
+      🛠 Tech Stack
+</h1>
 
-<h2 align="center">
-    ### 👨‍💻 Programming Languages
+<br>
+
+<h2 align="center" >
+      👨‍💻 Programming Languages
 </h2>
-<p align="center">
+
+<p align="center" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,dart,html,css,js,ts" />
   </a>
 </p>
 
-
-
 <br>
 
-### 🧰 Libraries & Frameworks
+<h2 align="center">
+      🧰 Libraries & Frameworks
+</h2>
 
-<p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,react,redux,vite,bootstrap,tailwind,sass"/>
+    <img src="https://skillicons.dev/icons?i=npm,nodejs,express,jquery" />
+  </a>
 </p>
 
 <br>
 
-### 🗄️ Databases & Cloud Hosting
+<h2 align="center">
+      🗄️ Databases & Cloud Hosting
+</h2>
 
-<p>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql" />
+  </a>
 </p>
-
+ 
 <br>
 
-### 💻 Software & Tools
+<h2 align="center">
+    💻 Software & Tools
+</h2>
 
-<p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,visualstudio,vscode,discord,figma,postman,git,github,gitlab,powershell,stackoverflow" />
+  </a>
 </p>
-
+ 
 <br>
 
 ## 📊 GitHub Stats
