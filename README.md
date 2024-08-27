@@ -78,20 +78,24 @@ I am a passionate Full-Stack Developer with a keen interest in software engineer
  
 <br>
 
-## 📊 GitHub Stats
+<h2 align="center">
+    📊 GitHub Stats
+</h2>
 
 <p align="center">
     <img src="https://streak-stats.demolab.com?user=Firas-AL-Ahmad&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Firas-AL-Ahmad&theme=tokyonight&show_icons=true" alt="GitHub Stats" style="height: 200px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firas-AL-Ahmad&theme=tokyonight&layout=compact" alt="Top Languages" style="height: 200px;" />
-</p>
  
-<br>
+ <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Firas-AL-Ahmad&theme=tokyonight&show_icons=true" alt="GitHub Stats" style=" width:45%; height: 200px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firas-AL-Ahmad&theme=tokyonight&layout=compact" alt="Top Languages" style="width: 45%; height: 200px;" />
+</div>
 
-## 🌟 Featured Projects
+<br>
+ 
+<h2 align="center">
+    🌟 Featured Projects
+</h2>
 
 <div align="center" style="padding-top: 50px; padding-bottom: 50px;">
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 50px;">
