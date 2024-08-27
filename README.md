@@ -85,8 +85,8 @@ I am a passionate Full-Stack Developer with a keen interest in software engineer
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Firas-AL-Ahmad&theme=tokyonight&show_icons=true" alt="GitHub Stats" style="width:45%; height: 200px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firas-AL-Ahmad&theme=tokyonight&layout=compact" alt="Top Languages" style="width: 45%; height: 200px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Firas-AL-Ahmad&theme=tokyonight&show_icons=true" alt="GitHub Stats" style="height: 200px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firas-AL-Ahmad&theme=tokyonight&layout=compact" alt="Top Languages" style="height: 200px;" />
 </p>
  
 <br>
