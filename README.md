@@ -6,6 +6,7 @@
     <img src="https://github.com/user-attachments/assets/63168c89-8989-4d71-b05c-83ce97f89123" alt="Firas AL Ahmad Profile Image" />
 </div>
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Firas-AL-Ahmad.visitor-badge&left_color=purple&right_color=green&left_text=Hello%20Visitors"/>
 
  ## 💬 About Me
 
